@@ -25,9 +25,19 @@
     <ClCompile Include="BTVN2_B10.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="BTVN2_B11.cpp" />
+    <ClCompile Include="BTVN2_B12.cpp" />
+    <ClCompile Include="BTVN2_B13.cpp" />
+    <ClCompile Include="BTVN2_B14.cpp" />
+    <ClCompile Include="BTVN2_B15.cpp" />
+    <ClCompile Include="BTVN2_B16.cpp" />
+    <ClCompile Include="BTVN2_B17.cpp" />
+    <ClCompile Include="BTVN2_B18.cpp" />
+    <ClCompile Include="BTVN2_B19.cpp" />
     <ClCompile Include="BTVN2_B2.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="BTVN2_B20.cpp" />
     <ClCompile Include="BTVN2_B3.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>

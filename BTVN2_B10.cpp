@@ -2,14 +2,14 @@
 using namespace std;
 
 void kiemTraSoDuong(int* arr, int n) {
-    bool foundPositive = false;  // Bien de kiem tra so do co duong hay khong?
+    bool timSoDuong = false;  // Bien de kiem tra so do co duong hay khong?
 
     // Duyet qua tat ca phan tu tong mang
     for (int i = 0; i < n; i++) {
         if (arr[i] > 0) {  
-            if (!foundPositive) {
+            if (!timSoDuong) {
                 cout << "Cac so duong trong mang la: " << endl;
-                foundPositive = true;
+                timSoDuong = true;
             }
             // In ra vi tri so duong
             cout << "Vi tri " << i << ": " << arr[i] << endl;
@@ -17,7 +17,7 @@ void kiemTraSoDuong(int* arr, int n) {
     }
 
     // Neu khong tim thay so duong
-    if (!foundPositive) {
+    if (!timSoDuong) {
         cout << "Khong co so duong trong mang!" << endl;
     }
 }
