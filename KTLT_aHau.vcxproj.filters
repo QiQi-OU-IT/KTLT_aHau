@@ -39,5 +39,11 @@
     <ClCompile Include="BTVN2_B8.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="BTVN2_B9.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BTVN2_B10.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
