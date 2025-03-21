@@ -25,22 +25,59 @@
     <ClCompile Include="BTVN2_B10.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="BTVN2_B11.cpp" />
-    <ClCompile Include="BTVN2_B12.cpp" />
-    <ClCompile Include="BTVN2_B13.cpp" />
-    <ClCompile Include="BTVN2_B14.cpp" />
-    <ClCompile Include="BTVN2_B15.cpp" />
-    <ClCompile Include="BTVN2_B16.cpp" />
-    <ClCompile Include="BTVN2_B17.cpp" />
-    <ClCompile Include="BTVN2_B18.cpp" />
-    <ClCompile Include="BTVN2_B19.cpp" />
+    <ClCompile Include="BTVN2_B11.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="BTVN2_B12.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="BTVN2_B13.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="BTVN2_B14.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="BTVN2_B15.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="BTVN2_B16.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="BTVN2_B17.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="BTVN2_B18.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="BTVN2_B19.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="BTVN2_B2.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="BTVN2_B20.cpp" />
+    <ClCompile Include="BTVN2_B20.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="BTVN2_B21.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="BTVN2_B22.cpp" />
+    <ClCompile Include="BTVN2_B23.cpp" />
+    <ClCompile Include="BTVN2_B24.cpp" />
+    <ClCompile Include="BTVN2_B25.cpp" />
+    <ClCompile Include="BTVN2_B26.cpp" />
+    <ClCompile Include="BTVN2_B27.cpp" />
+    <ClCompile Include="BTVN2_B28.cpp" />
+    <ClCompile Include="BTVN2_B29.cpp" />
     <ClCompile Include="BTVN2_B3.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="BTVN2_B30.cpp" />
+    <ClCompile Include="BTVN2_B31.cpp" />
+    <ClCompile Include="BTVN2_B32.cpp" />
+    <ClCompile Include="BTVN2_B33.cpp" />
+    <ClCompile Include="BTVN2_B34.cpp" />
+    <ClCompile Include="BTVN2_B35.cpp" />
     <ClCompile Include="BTVN2_B4.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
