@@ -13,6 +13,9 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Source Files\BTVN3_50">
+      <UniqueIdentifier>{5c4e9f5a-8b17-46c5-b5e1-1bcdd90aef09}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="BTVN2_B1.cpp">
@@ -119,6 +122,36 @@
     </ClCompile>
     <ClCompile Include="BTVN2_B35.cpp">
       <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BTVN3_B1.cpp">
+      <Filter>Source Files\BTVN3_50</Filter>
+    </ClCompile>
+    <ClCompile Include="BTVN3_B2.cpp">
+      <Filter>Source Files\BTVN3_50</Filter>
+    </ClCompile>
+    <ClCompile Include="BTVN3_B3.cpp">
+      <Filter>Source Files\BTVN3_50</Filter>
+    </ClCompile>
+    <ClCompile Include="BTVN3_B4.cpp">
+      <Filter>Source Files\BTVN3_50</Filter>
+    </ClCompile>
+    <ClCompile Include="BTVN3_B5.cpp">
+      <Filter>Source Files\BTVN3_50</Filter>
+    </ClCompile>
+    <ClCompile Include="BTVN3_B6.cpp">
+      <Filter>Source Files\BTVN3_50</Filter>
+    </ClCompile>
+    <ClCompile Include="BTVN3_B7.cpp">
+      <Filter>Source Files\BTVN3_50</Filter>
+    </ClCompile>
+    <ClCompile Include="BTVN3_B8.cpp">
+      <Filter>Source Files\BTVN3_50</Filter>
+    </ClCompile>
+    <ClCompile Include="BTVN3_B9.cpp">
+      <Filter>Source Files\BTVN3_50</Filter>
+    </ClCompile>
+    <ClCompile Include="BTVN3_B10.cpp">
+      <Filter>Source Files\BTVN3_50</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
